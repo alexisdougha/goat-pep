@@ -1,7 +1,7 @@
 # goat-pep
 A repository to convert and navigate between XYZ files for quantum chemistry calculations and PDB files suitable for peptides.
 
-Start by clone this repository with ```git clone https://github.com/alexisdougha/goat-pep.git```
+Start by cloning this repository with ```git clone https://github.com/alexisdougha/goat-pep.git```
 
 You can prepare input files for Orca 6 to run a conformer search with GOAT. Check the Orca doc [here](https://www.faccts.de/docs/orca/6.0/tutorials/prop/goat.html) and the paper about GOAT [here](https://onlinelibrary.wiley.com/doi/10.1002/anie.202500393).
 
