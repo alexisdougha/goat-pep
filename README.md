@@ -57,4 +57,4 @@ python orca_xyz_to_pdb.py \
     data/orca_xyz_to_pdb/outputs
 ```
 
-This maps the ORCA-generated XYZ conformations onto the original PDB topology and outputs PDB files for downstream analysis.
+This maps the ORCA-generated XYZ conformations onto the original PDB topology and outputs PDB files for downstream analysis and visualization.
