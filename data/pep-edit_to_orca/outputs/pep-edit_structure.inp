@@ -1,0 +1,7 @@
+!GOAT XTB 
+
+%PAL NPROCS 8 END
+
+%maxcore 23000
+
+*XYZFILE 0 1 pep-edit_structure.xyz
