@@ -1,0 +1,8 @@
+!GOAT XTB ALPB(water)
+
+%PAL NPROCS 8 END
+
+%maxcore 23000
+
+*XYZFILE 0 1 pep-edit_cilengitide.xyz
+
